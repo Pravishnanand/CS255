@@ -1,19 +1,19 @@
-Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
+**Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?**
 
 The DriverPass project aimed to establish a better driver training system to help students pass their driving tests at the local DMV (Department of Motor Vehicles). The client for this project was Liam, the owner of DriverPass, who wanted to develop a comprehensive system that would offer online classes, practice tests, on-the-road training, and the ability to manage driving lesson reservations.
 
-What did you do particularly well?
+**What did you do particularly well?**
 
 One particular aspect of the project that was executed exceptionally well was the emphasis on security measures. The design incorporated a robust set of security features, including strong user authentication, two-factor authentication (2FA) for added account protection, and an account lockout mechanism to thwart brute force hacking attempts. Additionally, the implementation of data encryption both in transit and at rest, as well as the use of HTTPS for secure data exchange, demonstrated a commitment to safeguarding user information. These comprehensive security measures not only protected user data but also ensured the integrity and reliability of the entire system, instilling confidence in both users and administrators.
 
-If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+**If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?**
 
 If I could choose one part of my work on these documents to revise, I would focus on providing more detailed and specific non-functional requirements for the DriverPass system. While the documents outlined important non-functional requirements like performance, platform constraints, accuracy, precision, adaptability, and security, a more comprehensive and granular specification would enhance the clarity and completeness of the system design. To improve this, I would include specific metrics and thresholds for performance requirements, elaborate on platform compatibility and constraints, and provide a more extensive security framework with specific security standards and compliance guidelines. 
 
-How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
+**How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?**
 
 I interpreted the user's needs by closely examining the interview document and systematically dissecting the provided information to identify key requirements. I ensured that the system design addressed specific user pain points, such as convenient scheduling of driving lessons, easy access to study materials for online classes, and robust security measures to protect user data. Considering the user's needs is crucial because it directly impacts the system's adoption and success. A user-centered approach leads to a more positive user experience, increased user satisfaction, and long-term user loyalty, ultimately contributing to the overall success and effectiveness of the system.
 
-How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
+**How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?**
 
 My approach to designing software involves a user-centric methodology that begins with a thorough understanding of user needs and requirements. I prioritize clear communication and collaboration with stakeholders to gather comprehensive insights. In the future, I would continue to utilize techniques such as creating detailed use cases and user stories, conducting user interviews, and gathering feedback iteratively throughout the development process. I would emphasize modularity and maintainability in the codebase to facilitate future updates and enhancements. Additionally, staying current with emerging technologies and best practices would remain a fundamental aspect of my approach, ensuring that the software design remains adaptable and aligned with evolving industry standards.
